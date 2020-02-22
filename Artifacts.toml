@@ -1,0 +1,97 @@
+[[PARMETIS]]
+arch = "aarch64"
+git-tree-sha1 = "f2c84b8f4415c1766b08e7c4f02a5c1a4226b035"
+libc = "musl"
+os = "linux"
+
+    [[PARMETIS.download]]
+    sha256 = "fe7bac473ea0484c50ec98592096401f5c8d23ddb55dcf91f676ef763bfa0a74"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.3+0/PARMETIS.v4.0.3.aarch64-linux-musl.tar.gz"
+[[PARMETIS]]
+arch = "x86_64"
+git-tree-sha1 = "c789c84b3f10132c7cf379c7386ed35954516a1c"
+libc = "musl"
+os = "linux"
+
+    [[PARMETIS.download]]
+    sha256 = "dd5d2f04e53d2425a33aefea44c996a1ca3435169e69fc1a202fbe13fb1d3a68"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.3+0/PARMETIS.v4.0.3.x86_64-linux-musl.tar.gz"
+[[PARMETIS]]
+arch = "i686"
+git-tree-sha1 = "a514d6f82e940a914b5dc3273b97b6eac30654cd"
+libc = "glibc"
+os = "linux"
+
+    [[PARMETIS.download]]
+    sha256 = "91ca0a30c8aeb820da41630027d8a35ec7d72182907143a909755150389acf56"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.3+0/PARMETIS.v4.0.3.i686-linux-gnu.tar.gz"
+[[PARMETIS]]
+arch = "armv7l"
+git-tree-sha1 = "b62ff95d2d9aa3d045c6d4a387598fb5ad8339fc"
+libc = "glibc"
+os = "linux"
+
+    [[PARMETIS.download]]
+    sha256 = "b70c66916c5f49e2f148d79ac91b6e8a90ad3e9706b40c4e473c1ece08c6b97a"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.3+0/PARMETIS.v4.0.3.armv7l-linux-gnueabihf.tar.gz"
+[[PARMETIS]]
+arch = "aarch64"
+git-tree-sha1 = "54ca19f17d2c8741f0de85cc9ee63d1aeefca3da"
+libc = "glibc"
+os = "linux"
+
+    [[PARMETIS.download]]
+    sha256 = "55911ee75e13ff31d4f225e45e948849753897738b8cd5e48d5705996b551e7f"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.3+0/PARMETIS.v4.0.3.aarch64-linux-gnu.tar.gz"
+[[PARMETIS]]
+arch = "x86_64"
+git-tree-sha1 = "a4c676759ab804f47373e5297cc31c4453a5e272"
+libc = "glibc"
+os = "linux"
+
+    [[PARMETIS.download]]
+    sha256 = "84ad0f682032dbf40c1c785d686b189f007faa7bf99d7764a71ce5ddaf7c9a2f"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.3+0/PARMETIS.v4.0.3.x86_64-linux-gnu.tar.gz"
+[[PARMETIS]]
+arch = "powerpc64le"
+git-tree-sha1 = "dea5c749dc8754788d3715309ddabb290b1826d4"
+libc = "glibc"
+os = "linux"
+
+    [[PARMETIS.download]]
+    sha256 = "af91f9dfd4f7d26513389c3756832a12894f1a6d34fcd294506c2bbbe82d1cc6"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.3+0/PARMETIS.v4.0.3.powerpc64le-linux-gnu.tar.gz"
+[[PARMETIS]]
+arch = "x86_64"
+git-tree-sha1 = "2a00df1141332f30ab19e21027bd736f14178eec"
+os = "macos"
+
+    [[PARMETIS.download]]
+    sha256 = "2ef061ead3a5b8df32343e9a8e9fa8cb4365493c95a497fa3305048031005143"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.3+0/PARMETIS.v4.0.3.x86_64-apple-darwin14.tar.gz"
+[[PARMETIS]]
+arch = "x86_64"
+git-tree-sha1 = "d94c0f78e81163f8352e8375261bc07a9965dbc1"
+os = "freebsd"
+
+    [[PARMETIS.download]]
+    sha256 = "5a4a2363784a15cb9be41977a8fc91a7abb63262f206a7255d2267d418a4e4ba"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.3+0/PARMETIS.v4.0.3.x86_64-unknown-freebsd11.1.tar.gz"
+[[PARMETIS]]
+arch = "i686"
+git-tree-sha1 = "0c4815f390435b247b0755bded1c6ba7ce67ac28"
+libc = "musl"
+os = "linux"
+
+    [[PARMETIS.download]]
+    sha256 = "7bb8277af830937668c158cf4542f87d7b6dd0414a162bcf36b19774b005e752"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.3+0/PARMETIS.v4.0.3.i686-linux-musl.tar.gz"
+[[PARMETIS]]
+arch = "armv7l"
+git-tree-sha1 = "d3d7ad0aa8189d0fb962ec684c61bcb37ea49da0"
+libc = "musl"
+os = "linux"
+
+    [[PARMETIS.download]]
+    sha256 = "8ac0dfb6c25408f9721e73041f76584b0fd1fdafc5383a7fab1a9bf52f77ffb5"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.3+0/PARMETIS.v4.0.3.armv7l-linux-musleabihf.tar.gz"
