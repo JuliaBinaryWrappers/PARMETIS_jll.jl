@@ -1,6 +1,6 @@
 name = "PARMETIS_jll"
 uuid = "b247a4be-ddc1-5759-8008-7e02fe3dbdaa"
-version = "4.0.5+1"
+version = "4.0.6+0"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
