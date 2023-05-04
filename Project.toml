@@ -1,10 +1,9 @@
 name = "PARMETIS_jll"
 uuid = "b247a4be-ddc1-5759-8008-7e02fe3dbdaa"
-version = "4.0.6+0"
+version = "4.0.6+1"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 LazyArtifacts = "4af54fe1-eca0-43a8-85a7-787d91b784e3"
 MPICH_jll = "7cb0a576-ebde-5e09-9194-50597f1243b4"
@@ -21,4 +20,4 @@ JLLWrappers = "1.4.0"
 julia = "1.6"
 MPIPreferences = "0.1"
 METIS_jll = "5.1.2"
-MPItrampoline_jll = "^5.0.1"
+MPItrampoline_jll = "5.2.1"

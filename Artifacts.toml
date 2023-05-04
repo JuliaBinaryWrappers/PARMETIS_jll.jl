@@ -1,33 +1,33 @@
 [[PARMETIS]]
 arch = "aarch64"
-git-tree-sha1 = "0302cbf184548e791795b41fb2d21fedecf704d3"
+git-tree-sha1 = "623c01ac16157e3cf35311ab7953480e4489a0b8"
 lazy = true
 mpi = "mpich"
 os = "macos"
 
     [[PARMETIS.download]]
-    sha256 = "e5e162837a3563b7b56dbc50f1e188f8f51ce8f8f4f98c78d0e6aa97ce5c3f0b"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.aarch64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "02bda44eb2211226bb0045c0fdbb2b5d30965625189bfddbd3f4653ee45b2b4e"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "aarch64"
-git-tree-sha1 = "9fe780fb2bcec2bd0598ce6b3541d4e7e39ff0eb"
+git-tree-sha1 = "24abe94c2d601b24d6b01916c36c5c1d0d19dc5c"
 lazy = true
 mpi = "mpitrampoline"
 os = "macos"
 
     [[PARMETIS.download]]
-    sha256 = "6fd1d70e580490430060130a4335f99b56f7ee3108fffb2be45c1cdb2f41f767"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "907ab6e07839620912e8b8aae6afa1dbbd548c8d21ff7d170ddbee69a6b8c8bb"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[PARMETIS]]
 arch = "aarch64"
-git-tree-sha1 = "9e3d24f0e596e56f7e055b5fed676e67a40cd0fe"
+git-tree-sha1 = "6e8106e04ce6fa17303466f06f821f890cb31f7f"
 lazy = true
 mpi = "openmpi"
 os = "macos"
 
     [[PARMETIS.download]]
-    sha256 = "cca96d7966d976e67746ee358f3e647ec6723e10d6d81726951c054d075af00b"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "bf546dc96c66a52512a7fc452be18a457ec9e8be4f53904a621964cc8016f7b2"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.aarch64-apple-darwin-mpi+openmpi.tar.gz"
 [[PARMETIS]]
 arch = "aarch64"
 git-tree-sha1 = "6cae7b41e2fd61ffcd8fc34399ec5f0fd26cec69"
@@ -38,40 +38,40 @@ os = "linux"
 
     [[PARMETIS.download]]
     sha256 = "4a752fd580bfcd67ab7584d11df9911410ce374af890ad6925f9f474f3fc5d23"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.aarch64-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.aarch64-linux-gnu-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "aarch64"
-git-tree-sha1 = "23cfefd229d37acadeb31120d3e8f5e2417a553a"
+git-tree-sha1 = "67f64c8fa70cbdb6efa40bdd0e08f6bc6c716558"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "4b05862728506e20bf253f90d3e361c78acfaabdae991d5d688fbb6768d1ad10"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    sha256 = "eedbe2a207487051309b7fbdb0d441d3715b3dd22990c81600a3321593310ae1"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[PARMETIS]]
 arch = "aarch64"
-git-tree-sha1 = "282fd71517cbad2fae8f9c42886726b48173a4fd"
+git-tree-sha1 = "e76ad9f475f0bed2552ded1607d8b21e877bce4b"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "4ee4fa77464ffc4a38fac23251276cc4b430e721dcdc91460935dcf8790e5df7"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+    sha256 = "95175d37bd0d48aff5d5812f233f9626bccc773a1c6260a1559d5501de36ff37"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.aarch64-linux-gnu-mpi+openmpi.tar.gz"
 [[PARMETIS]]
 arch = "aarch64"
-git-tree-sha1 = "746546992267107ab113e76a8f9dda1907f663a5"
+git-tree-sha1 = "0f81bf2c9c4829fee2acc099109457bc14b693bd"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "ea8fb543c2f479ac26ed7c483333930ce9789d3516ff7e56fdf13e753e46aebd"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.aarch64-linux-musl-mpi+mpich.tar.gz"
+    sha256 = "1ca6227f6a0f3227682031318d908138dfaf210f3ba44de37f1b1f7e2a623614"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.aarch64-linux-musl-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "aarch64"
 git-tree-sha1 = "a7cf9bc8c1a2a49b3050080e56182cc5b52e03f0"
@@ -82,43 +82,43 @@ os = "linux"
 
     [[PARMETIS.download]]
     sha256 = "007008896de176700f9e5940ccd7c6a1f123438e61b285d5743311fdeb36ba8c"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.aarch64-linux-musl-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.aarch64-linux-musl-mpi+openmpi.tar.gz"
 [[PARMETIS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "070b2169602b2b789cc0d4e91cebb8923c380eef"
+git-tree-sha1 = "383c79508a9e68108e151f698b7f5e1d40ffa135"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "f7384a40d1155e6c6b117c574270edd862a81375bbe34ce81aa2b94e88f26220"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
+    sha256 = "fa8f2ae6c0a386ef85a769c4bb1f96d51d021265df88b50bd425b822e0b544db"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "710f2475be64512842237eb983598272f4c87a97"
+git-tree-sha1 = "d582424d5461345d84685434e852a4cf4083067a"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "86f37a83a88ffeb6d31c07a8bf7f10954f32a725b6d49404e629e458206fee8c"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+    sha256 = "3388499c4dd12fcbf1b6cb506de58aa1a9bf0dc202dce6bf30067bf31559e64e"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
 [[PARMETIS]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7c7cea0fb73666a5800ee1f41293f0ddacfa8599"
+git-tree-sha1 = "fd5a7cf0c7abf5e1fa3af4fa149f8036016b2c7c"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "38cf76fac7639259cbe2d90a156c6880111082197b82915f670506ab03fdecea"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
+    sha256 = "035a05924b9e7667076234ef0c858a8d066ac390d941255ae2bb50409d0cfd43"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -130,7 +130,7 @@ os = "linux"
 
     [[PARMETIS.download]]
     sha256 = "6ab1a781cba5de50a825502ae31427b2f2d55dcace63fb5568fd510f0ebf9673"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
 [[PARMETIS]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -142,7 +142,7 @@ os = "linux"
 
     [[PARMETIS.download]]
     sha256 = "dc2a0c9f101962911686897d5e7839b787b02ae38628270325cc1d134f841cab"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -154,31 +154,31 @@ os = "linux"
 
     [[PARMETIS.download]]
     sha256 = "a8270b7d6b7ac7fe334d02b3e0410446ddb9407a42eb74dc1fa5210760b2d503"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
 [[PARMETIS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1284f6e8a41c14403af6a1f970e08b5824218473"
+git-tree-sha1 = "ccc97df26d66a1c53332374f502df63e006ae3d7"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "d0197a262d0177cae79d62e41099fa48b000c3c4ba53b7e1442e039ddeae554a"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
+    sha256 = "b00260a708849ab778e8e4813f70e978b0ad15b548e56184fc6d0c672474e353"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
 [[PARMETIS]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "55e9a4acf4064e11d2b0fa0daef02d1763eb46b7"
+git-tree-sha1 = "918973cd8aad6ed647dee2c6b5d277ae50cc9ef0"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "897d5f3698af768d6c0b55e1c21d12829d02d457a660dffe3a1a86ff4d8e326c"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
+    sha256 = "97fab6c1226f8cacf7d537db3e6ea96db825c5b69af2761057073c19af8bad10"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -190,73 +190,83 @@ os = "linux"
 
     [[PARMETIS.download]]
     sha256 = "e9ef8d9e49c0caf2aced630b86de637795028565b89a98185966505c23a3668c"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
 [[PARMETIS]]
 arch = "i686"
-git-tree-sha1 = "15e89d65fb20f78120e9e2fb826ac25275735fb0"
+git-tree-sha1 = "b48b232818243213c2498e5ffbac4db376cc2d8e"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "345bc05ba07570916e68bf2092a26b8ac2f3e3af8d04988b7ec8f2d4a9b9d5f7"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.i686-linux-gnu-mpi+mpich.tar.gz"
+    sha256 = "20679ecaa179e79b36dd173b1a98ea3feccdc842bf49776ffedb914599b48f82"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.i686-linux-gnu-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "i686"
-git-tree-sha1 = "8c3939b1f0c6d05fdeedcd53031acb9e605b341b"
+git-tree-sha1 = "d3de2f6713bb173a21366909ec0588c7951bec41"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "b5d76debf2384cfb6be5dd5eb1e5133ec10c54e8c6c6aae440705e566e6f963e"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
+    sha256 = "4f96133d6a0d587c8c565f93ad357076fe55cfde731b5873ccd979a5f8301f78"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[PARMETIS]]
 arch = "i686"
-git-tree-sha1 = "b2d4f086b606b493646f372b179c18f8ee49bf59"
+git-tree-sha1 = "713c3d4095ced8654e5f9c090b9382752126b05d"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "bd37cfcd20cf8b4700d2e193b5777b7d60787f636b5cb31580159eb920da7d45"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.i686-linux-gnu-mpi+openmpi.tar.gz"
+    sha256 = "8e0f2c6ad58abcc40f4a647f4e64c0e404594248d664be52d51376a0ef559a23"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.i686-linux-gnu-mpi+openmpi.tar.gz"
 [[PARMETIS]]
 arch = "i686"
-git-tree-sha1 = "6918da4cebd8bf543b2f7c85ae43a02fbc2707c7"
+git-tree-sha1 = "877d3edb22d5e8e1a23a67c2e2b53ee32f724f9b"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "342500ac25d316a211c8a3c9db640acc6c6d873c4be78f1613e88af2a7e6cdfc"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.i686-linux-musl-mpi+mpich.tar.gz"
+    sha256 = "bcfc446779b1f03d41a1b895a322bed581b7c8296936e994b1feb7988fb60472"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.i686-linux-musl-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "i686"
-git-tree-sha1 = "b370cebc3a113bc3d0b456e3b3fd0bf1de56c768"
+git-tree-sha1 = "0179c568b362048cc5d311995746a7c6d277b14c"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "8151cb7265c64db508d226d8a835f85cbdfb49ceffde2c25b9436a8993240c0d"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.i686-linux-musl-mpi+openmpi.tar.gz"
+    sha256 = "402592a457fa86ac18653d7056e2d0ccb2fa52c199bb6cc969b798cebb9df76a"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.i686-linux-musl-mpi+openmpi.tar.gz"
+[[PARMETIS]]
+arch = "i686"
+git-tree-sha1 = "cfe65489ee7f9b1df12d1fb2e888d3c5f9a4f81d"
+lazy = true
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[PARMETIS.download]]
+    sha256 = "b5d7a93c0775d8c1f0241f89ce7dc4f3cfb377e7cde6462ed1be2ef8be06d8ea"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.i686-w64-mingw32-mpi+microsoftmpi.tar.gz"
 [[PARMETIS]]
 arch = "powerpc64le"
-git-tree-sha1 = "26e5c718cc3cf6c70b5c10ba9e7dc6382bc36802"
+git-tree-sha1 = "96f323a669ef2daa957782fc156000455aa41150"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "c530193c079eb6ede852cf62525214d5de27d264d59bace9fb2f6e86225592af"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+    sha256 = "b34157061c3934df2dd0c23440ace9c08e49d45dd06790131620454432aa7219"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "powerpc64le"
 git-tree-sha1 = "9cb4743a9408dcbc5b6af937786b4e67776bf851"
@@ -267,48 +277,48 @@ os = "linux"
 
     [[PARMETIS.download]]
     sha256 = "963c83bc0bede88ae817bf86e179d77090cca82a58cf8e845694a8b9d14e1c3c"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[PARMETIS]]
 arch = "powerpc64le"
-git-tree-sha1 = "198bbda8704c2055f0ec23fdc6bb4dbf3f654cdc"
+git-tree-sha1 = "0bc350f5134c8950be77f07a56eeca23a9d1af8b"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "e471f26147de9820c948ff0ba741e0c19b59e08b06bacf3d9a8344a8550d1f3c"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+    sha256 = "8484519965b8c52e3d65ce1167823a74046420795bf0ab9ac2ca59efcb64adbc"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
 [[PARMETIS]]
 arch = "x86_64"
-git-tree-sha1 = "2bb10ed4b0fdb18ba2ee7c606a4e375a3fdd515a"
+git-tree-sha1 = "3669a33addb12ac605503413f0ea6bfba770a1e2"
 lazy = true
 mpi = "mpich"
 os = "macos"
 
     [[PARMETIS.download]]
-    sha256 = "b0e5a334ee463040dde2782b8f985253470f6afbf76d39b5108011117eee8445"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "9b1cbde60d2f01953cf5f097ccbef8790c1c7d1d38fe476ad38b013cb6427597"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "x86_64"
-git-tree-sha1 = "a9f8917cff529a15522a31a247e2f0e1fbfca608"
+git-tree-sha1 = "4d24d7125753859c4c2c0eb35cbf16054d231d8a"
 lazy = true
 mpi = "mpitrampoline"
 os = "macos"
 
     [[PARMETIS.download]]
-    sha256 = "6b19edc360379ef60436ee7baedd76452b15373c36b6f80f653c0a9ff2916eb9"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "20e838132250a9e83cef0a922754af92f3068df2912d2d2a59744a32dfab1023"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[PARMETIS]]
 arch = "x86_64"
-git-tree-sha1 = "fa2be3e3edc7b8a635df08a89975ce74a628388a"
+git-tree-sha1 = "8ecda7fbe754c57bf29b89b35eee091484b3790d"
 lazy = true
 mpi = "openmpi"
 os = "macos"
 
     [[PARMETIS.download]]
-    sha256 = "3af0cde0fcd40e54c99cd806b4e8a5f02da325d593295e31c023344f76de59aa"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "0e97e339d323f1086902806a547186db57ec50d321393b1371d8d2eed66da2ed"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.x86_64-apple-darwin-mpi+openmpi.tar.gz"
 [[PARMETIS]]
 arch = "x86_64"
 git-tree-sha1 = "f35532a296e26e2aa8dd3912debdba4b3f73446a"
@@ -319,7 +329,7 @@ os = "linux"
 
     [[PARMETIS.download]]
     sha256 = "55eadd87dde248f5bab1035a56eaff6b56cecdd05a4a967579d585a9ea2537aa"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.x86_64-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.x86_64-linux-gnu-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "x86_64"
 git-tree-sha1 = "c12d83c6a8dc4a608f346e1243ac7114858de7cd"
@@ -330,29 +340,29 @@ os = "linux"
 
     [[PARMETIS.download]]
     sha256 = "4f9744a7fadf809d9256dd530e3fd8f02a773a9ceaef889ec97c3118271bbb3b"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[PARMETIS]]
 arch = "x86_64"
-git-tree-sha1 = "aa808a360367759702ee6ead18556daf72f78f54"
+git-tree-sha1 = "589cca8ddf33cc8b409e10adf524651a973dd29d"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "cc20b8cbe1e119352b838956e25cca43d8900176c7341d6de7638515d555f039"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+    sha256 = "b745890015e9dac5175914568cdf999e498962ac7f18ec0aa86fa518f1cb81de"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.x86_64-linux-gnu-mpi+openmpi.tar.gz"
 [[PARMETIS]]
 arch = "x86_64"
-git-tree-sha1 = "7a9c390c8f2725c03695e914e7ef55ccb7f10bbd"
+git-tree-sha1 = "e8414959e1b25fa1075eee79f891ab041c00643e"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[PARMETIS.download]]
-    sha256 = "3f783aa4b863903ddc63423cbdb23992c0eea5ebac5ca8eb99618b6b9e4ee1da"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.x86_64-linux-musl-mpi+mpich.tar.gz"
+    sha256 = "d57ff9790a8649effbcf2d1a3fef20832418ef6661a3639d7f834ce3e22b774b"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.x86_64-linux-musl-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "x86_64"
 git-tree-sha1 = "40e96839e5aca8afccf05edc5afd263770b8c51c"
@@ -363,17 +373,17 @@ os = "linux"
 
     [[PARMETIS.download]]
     sha256 = "253461c440ee3557d3ad46022a9798f70845ddde78e6724cf371c1a22a40c7da"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.x86_64-linux-musl-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.x86_64-linux-musl-mpi+openmpi.tar.gz"
 [[PARMETIS]]
 arch = "x86_64"
-git-tree-sha1 = "1a1dc16609254ab2fb56df21d1aef2c31045470c"
+git-tree-sha1 = "dd25f76f06f2369b227ee393529cfd06a8195bad"
 lazy = true
 mpi = "mpich"
 os = "freebsd"
 
     [[PARMETIS.download]]
-    sha256 = "2f8692b2632594e78ba8e48d6210b9cf7fc79d0f0963e35b5c42cf3d3d925f2c"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+    sha256 = "baee2920e1602df1b6ce02b14d11c199d9124eaa364e2a40b486c7c724a33e6f"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
 [[PARMETIS]]
 arch = "x86_64"
 git-tree-sha1 = "31e490902a82be52088d819605111d10006562b5"
@@ -383,4 +393,14 @@ os = "freebsd"
 
     [[PARMETIS.download]]
     sha256 = "8f00023fc43ddafa85699fbc9461d1add7f8ce2d8a6e213d6284e76bdc6bd1fc"
-    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+0/PARMETIS.v4.0.6.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[PARMETIS]]
+arch = "x86_64"
+git-tree-sha1 = "b0c7cde3da8c6be9929ce13ad69eb8f23aca524f"
+lazy = true
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[PARMETIS.download]]
+    sha256 = "14c5399f9428ab72bf4803035c3ef6dd050d207747677e838ea1a12679bd65ce"
+    url = "https://github.com/JuliaBinaryWrappers/PARMETIS_jll.jl/releases/download/PARMETIS-v4.0.6+1/PARMETIS.v4.0.6.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"

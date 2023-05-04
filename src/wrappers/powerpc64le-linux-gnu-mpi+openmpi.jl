@@ -3,7 +3,6 @@ export libparmetis, libparmetis_Int32_Real64, libparmetis_Int64_Real32, libparme
 
 using METIS_jll
 using OpenMPI_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("PARMETIS")
 JLLWrappers.@declare_library_product(libparmetis, "libparmetis.so")
 JLLWrappers.@declare_library_product(libparmetis_Int32_Real64, "libparmetis_Int32_Real64.so")
